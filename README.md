@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed hamid hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed hamid hasan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/syed-hamid-hasan-654235229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed hamid hasan" height="30" width="40" /></a>
 <a href="https://instagram.com/syed_hamid_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_hamid_hasan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/syedhamid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="syedhamid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedhamidhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedhamidhasan" height="30" width="40" /></a>
